@@ -17,5 +17,6 @@ public class Simple1Test {
 	{
 		System.out.println("bye");
 		System.out.println("bye bye");
+		s1
 	}
 }
